@@ -1,6 +1,6 @@
-# Snowflake Web Analytics - Synthetic Data & Dashboard Queries
+# Snowflake Web Analytics Using Interactive Table and Interactive Warehouse
 
-A complete solution for generating synthetic web analytics data and analyzing it in Snowflake. This project includes synthetic data generation, SQL queries for dashboards, and comprehensive analytics for web traffic analysis.
+A complete solution for demonstrating Interactive Table and Interactive Warehouse in Snowflake. This project includes synthetic data generation, SQL queries for dashboards, and comprehensive analytics for web traffic analysis.
 
 [![Data Size](https://img.shields.io/badge/records-10,000-blue)]()
 [![Database](https://img.shields.io/badge/database-Snowflake-29B5E8)]()
